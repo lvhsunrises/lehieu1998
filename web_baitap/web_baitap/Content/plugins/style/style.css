@@ -1,0 +1,373 @@
+﻿body {
+    background-color: #FFF !important;
+    margin: 0;
+    padding: 0;
+}
+
+.header-savill {
+    min-height: 180px;
+}
+
+.body-savill {
+    padding: 1rem;
+    background-color: #f1f2f6;
+    min-height: 600px;
+}
+
+.body-Myteam {
+    padding: 1rem;
+    background-color: #ffffff;
+    min-height: 600px;
+}
+
+.color-text-left {
+    color: #b5b7bf;
+}
+
+.color-text-first {
+    color: #b5b7bf;
+    padding: 0 !important;
+}
+
+.color-text-two {
+    padding: 0 !important;
+}
+
+.padding-two {
+    padding-top: 2%;
+}
+
+.padding-details {
+    padding-top: 18%;
+}
+
+.font-text-myteam {
+    font-size: 16px;
+    font-weight: 400;
+    padding-top: 5%;
+}
+
+.font-text-myteam-first {
+    font-size: 16px;
+    font-weight: 400;
+    padding-top: 2%;
+}
+
+.main-collapse {
+    padding-bottom: 7%;
+}
+
+.main-collapse-last {
+    padding-bottom: 7%;
+    
+}
+
+.icon-left {
+    margin: auto;
+    width: 40%;
+    margin: 1rem;
+    color: white;
+    font-size: 20px;
+    padding-top: 1rem;
+}
+
+.icon-right {
+    width: 60%;
+    margin: 1rem;
+    color: white;
+    font-size: 20px;
+    padding-top: 1rem;
+}
+
+.fa-search:before {
+    content: "\f002";
+    display: block;
+    float: right;
+    font-size: 25px;
+}
+
+.col-myteam {
+    color: white;
+    font-size: 20px;
+    padding-top: 7%;
+    text-align: center;
+}
+
+#text_dtail {
+    color: #676a6c;
+    display: block;
+}
+
+.text_detail-official {
+    color: #676a6c;
+    display: block;
+}
+
+.row-myteam {
+    padding: 1rem;
+    background: #2a3c66;
+    border-radius: 6px;
+    margin-top: 1em;
+    margin-bottom: 2em;
+}
+
+.collapse-myteam {
+    margin-bottom: 1rem;
+    background: #fff;
+    margin-top: 1rem;
+    color: #2a3c66;
+    font-weight: 600;
+    font-size: 16px;
+}
+
+.office-son-public {
+    background: #fff;
+    color: #2a3c66;
+    font-weight: 600;
+    font-size: 16px;
+    border-top:1px solid #f3f3f3;
+}
+
+.color-text-right {
+    color: #2a3c66;
+    font-weight: 600;
+}
+
+.icon-collapse {
+    display: block;
+    float: right;
+}
+
+[data-toggle="collapse"] .fa:before {
+    content: "\f107";
+    color: #2a3c66;
+    font-weight: 600;
+    font-size: 20px;
+}
+
+[data-toggle="collapse"].collapsed .fa:before {
+    content: "\f105";
+    color: #2a3c66;
+    font-weight: 600;
+    font-size: 20px;
+}
+
+.arrow-left:before {
+    content: "\f060";
+    color: #fff;
+    font-weight: 600;
+    font-size: 20px;
+}
+
+.block-excel {
+    display: block;
+    float: left;
+    background-color: #d7ffe4;
+    text-align: center;
+    color: #145a2a;
+    width: 48.5%;
+    border-radius: 4px;
+    border: 1px solid #145a2a;
+}
+
+.block-pdf {
+    background-color: #ffe4de;
+    text-align: center;
+    color: red;
+    display: block;
+    float: left;
+    width: 48.5%;
+    margin-left: 3%;
+    border-radius: 4px;
+    border: 1px solid red;
+}
+
+.row-collapsefour-two {
+    padding-top: 1.5em;
+    border-top: 1px solid #ccc;
+    padding-bottom: 20%;
+    margin-top: 2em;
+}
+
+.row-collapsefour-first {
+    padding-bottom: 1.5em;
+}
+
+.text-excel {
+    line-height: 50px;
+    font-weight:600;
+}
+.text-pdf {
+    line-height: 50px;
+    font-weight: 600;
+}
+
+.block-text-first {
+    display: block;
+    float: left;
+    width: 35%;
+    border-radius: 3px;
+    border: 1px solid #676a6c;
+    font-size: 14px;
+    text-align: center;
+    line-height: 30px;
+}
+
+.block-text-two {
+    display: block;
+    float: left;
+    width: 26%;
+    border-radius: 3px;
+    border: 1px solid #676a6c;
+    margin-left: 2%;
+    font-size: 14px;
+    text-align: center;
+    line-height: 30px;
+}
+
+.block-text-three {
+    display: block;
+    float: left;
+    width: 35%;
+    margin-left: 2%;
+    border-radius: 3px;
+    border: 1px solid #676a6c;
+    font-size: 14px;
+    text-align: center;
+    line-height: 30px;
+}
+
+.row-Profile-two {
+    padding: 1rem;
+    margin-bottom: 1rem;
+    background: #ffffff;
+    border-radius: 14px;
+}
+
+.row-Profile-three {
+    padding: 1rem;
+    margin-bottom: 1rem;
+    background: #ffffff;
+    border-top: 1px solid #eeeeee;
+    margin-top: -7%;
+}
+.padding-profile {
+    padding-left: 0px !important;
+    padding-right: 0px !important;
+}
+.row-Profile-four {
+    padding: 1rem;
+    margin-bottom: 1rem;
+    background: #ffffff;
+    border-top: 1px solid #eeeeee;
+    margin-top: -5%;
+}
+
+.row-Profile-five {
+    padding: 1rem;
+    margin-bottom: 1rem;
+    background: #ffffff;
+    border-top: 1px solid #eeeeee;
+    margin-top: -5%;
+    border-radius: 0px 0px 14px 14px;
+}
+
+.row-Profile-six {
+    padding: 1rem;
+    margin-bottom: 1rem;
+    background: #ffffff;
+    border-radius: 14px;
+}
+
+.row-Profile-seven {
+    padding: 1rem;
+    margin-bottom: 1rem;
+    background: #ffffff;
+    border-radius: 14px;
+}
+
+.color-text-profile-two {
+    color: #1e9ec7;
+    font-weight: 600;
+}
+
+.color-text-profile-first {
+    color: #b5b7bf;
+    font-weight: 600;
+}
+
+.profile-two {
+    padding-top: 0.5em;
+}
+
+.office-pater-first {
+    margin-bottom: 1rem;
+    background: #ffffff;
+    border-radius: 14px 14px 0px 0px;
+    color: #2a3c66;
+    font-weight: 600;
+    font-size: 16px;
+}
+
+.office-pater-two {
+    margin-bottom: 1rem;
+    background: #ffffff;
+    border-radius: 0px 0px 14px 14px;
+    margin-top: -16px;
+    border-top: 1px solid #676a6c;
+    color: #2a3c66;
+    font-weight: 600;
+    font-size: 16px;
+}
+.icon-pdf {
+    color: red;
+    font-weight: 600;
+}
+.icon-excel {
+    color: #024c1f;
+    font-weight:600;
+}
+
+.tabs_detail .nav-link {
+    border: none !important;
+}
+
+    .tabs_detail .nav-link:hover {
+        color: #2ba5b5 !important;
+    }
+
+    .tabs_detail .nav-link.active:after {
+        content: '';
+        display: block;
+        width: 30px;
+        border: 1px solid #2ba5b5;
+        height: 1px;
+        margin: 5px auto
+    }
+
+    .tabs_detail .nav-link.active {
+        color: #2ba5b5 !important;
+        background-color: inherit !important;
+        text-wrap:none;
+    }
+
+.tap_content_detail > .active {
+    background: #ffffff;
+    border-radius: 14px;
+}
+.nav-tabs {
+    border-bottom: 0px !important;
+    padding-bottom: 20px;
+}
+
+.collapse-official{
+    padding:1rem;
+}
+.collapse-profile {
+    background: #fff;
+    border-radius: 6px;
+    margin-top: 0.3rem;
+    color: #2a3c66;
+    font-weight: 600;
+    font-size: 16px;
+}
